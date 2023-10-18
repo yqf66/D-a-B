@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\大学学习\小学期\testWeb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3196806078.index
+50667016.index
+973386632.index
+563534060.index
